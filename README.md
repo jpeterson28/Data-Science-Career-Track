@@ -1,2 +1,2 @@
 # Data-Science-Career-Track
-Repository for all the code written during the career track program
+Repository for all the mini projects and assignment  during the career track program
